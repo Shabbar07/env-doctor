@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/@with_ezz/env-doctor"><img src="https://img.shields.io/npm/v/@with_ezz/env-doctor?color=blue&style=flat-square" alt="npm version" /></a>
   <a href="https://www.npmjs.com/package/@with_ezz/env-doctor"><img src="https://img.shields.io/npm/dm/@with_ezz/env-doctor?color=purple&style=flat-square" alt="npm downloads" /></a>
-  <a href="https://github.com/with_ezz/env-doctor"><img src="https://img.shields.io/github/stars/with_ezz/env-doctor?style=flat-square" alt="GitHub stars" /></a>
+  <a href="https://github.com/Shabbar07/env-doctor"><img src="https://img.shields.io/github/stars/Shabbar07/env-doctor?style=flat-square" alt="GitHub stars" /></a>
   <a href="./LICENSE"><img src="https://img.shields.io/npm/l/@with_ezz/env-doctor?style=flat-square" alt="license" /></a>
 </p>
 

@@ -17,12 +17,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/with_ezz/env-doctor.git"
+    "url": "git+https://github.com/Shabbar07/env-doctor.git"
   },
   "bugs": {
-    "url": "https://github.com/with_ezz/env-doctor/issues"
+    "url": "https://github.com/Shabbar07/env-doctor/issues"
   },
-  "homepage": "https://github.com/with_ezz/env-doctor#readme",
+  "homepage": "https://github.com/Shabbar07/env-doctor#readme",
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
