@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/env-doctor"><img src="https://img.shields.io/npm/v/env-doctor?color=blue&style=flat-square" alt="npm version" /></a>
-  <a href="https://www.npmjs.com/package/env-doctor"><img src="https://img.shields.io/npm/dm/env-doctor?color=purple&style=flat-square" alt="npm downloads" /></a>
-  <a href="https://github.com/placeholder/env-doctor"><img src="https://img.shields.io/github/stars/placeholder/env-doctor?style=flat-square" alt="GitHub stars" /></a>
-  <a href="./LICENSE"><img src="https://img.shields.io/npm/l/env-doctor?style=flat-square" alt="license" /></a>
+  <a href="https://www.npmjs.com/package/@with_ezz/env-doctor"><img src="https://img.shields.io/npm/v/@with_ezz/env-doctor?color=blue&style=flat-square" alt="npm version" /></a>
+  <a href="https://www.npmjs.com/package/@with_ezz/env-doctor"><img src="https://img.shields.io/npm/dm/@with_ezz/env-doctor?color=purple&style=flat-square" alt="npm downloads" /></a>
+  <a href="https://github.com/with_ezz/env-doctor"><img src="https://img.shields.io/github/stars/with_ezz/env-doctor?style=flat-square" alt="GitHub stars" /></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/npm/l/@with_ezz/env-doctor?style=flat-square" alt="license" /></a>
 </p>
 
 ---
@@ -56,13 +56,13 @@ Summary: 2 missing (1 typo), 1 unused, 1 undocumented.
 No installation necessary—just run it directly in any project folder:
 
 ```bash
-npx env-doctor
+npx @with_ezz/env-doctor
 ```
 
 Or install globally if you want it everywhere:
 
 ```bash
-npm install -g env-doctor
+npm install -g @with_ezz/env-doctor
 env-doctor
 ```
 

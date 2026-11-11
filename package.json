@@ -1,5 +1,5 @@
 {
-  "name": "env-doctor",
+  "name": "@with_ezz/env-doctor",
   "version": "0.1.0",
   "description": "Find environment variable problems in JS/TS projects: missing, unused, undocumented, and typos.",
   "keywords": [
@@ -13,16 +13,16 @@
     "node",
     "developer-tools"
   ],
-  "author": "",
+  "author": "with_ezz",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/placeholder/env-doctor.git"
+    "url": "git+https://github.com/with_ezz/env-doctor.git"
   },
   "bugs": {
-    "url": "https://github.com/placeholder/env-doctor/issues"
+    "url": "https://github.com/with_ezz/env-doctor/issues"
   },
-  "homepage": "https://github.com/placeholder/env-doctor#readme",
+  "homepage": "https://github.com/with_ezz/env-doctor#readme",
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
