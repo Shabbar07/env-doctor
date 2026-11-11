@@ -1,6 +1,6 @@
 {
   "name": "@with_ezz/env-doctor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Find environment variable problems in JS/TS projects: missing, unused, undocumented, and typos.",
   "keywords": [
     "env",
